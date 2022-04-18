@@ -1,0 +1,1 @@
+{"speed": 4.769894096168031, "throttle": 0.75, "brake": 0.0, "steer": -0.00029128981987014413, "command": 3, "route_dist": -0.0004960039944480016, "route_angle": -0.00015238910948206226, "lane_dist": 0.03316916152834892, "lane_angle": 0.0001532219738389055, "hazard": false, "hazard_dist": 25, "tl_state": 0, "tl_dist": 45.0, "is_junction": false}
